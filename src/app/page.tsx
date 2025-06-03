@@ -1,9 +1,11 @@
-import './globals.css';
+import '../styles/globals.css';
 
 export default function Home() {
   return (
     <div>
-      <h1>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</h1>
+      <div>
+        <h1>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</h1>
+      </div>
     </div>
   );
 }
